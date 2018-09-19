@@ -68,7 +68,7 @@ public class Foo {
 	
 	//단점2
 	public static void test() {
-		SpringApplication.run();
+		//SpringApplication.run();	//SpringApplication 상의 주석 확인용
 	}
 	
 	//Private static method가 필요한이유
